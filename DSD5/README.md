@@ -3,7 +3,7 @@
 **Teaching**: 90 min
 
 **Problem statement**
-1. As analyst, you might want to use an end-to-end data analytics tool, capable to integrate multiple data sources and to create various data analytics outputs 
+1. As analyst, you might want to use an end-to-end data analytics tool (with intgeration of multiple data sources, data pipelines, advanced analytics etc)
 
 2. As analyst, rapid prototyping of your data analytics workflow, opposed to using a programing language (R,Python etc), might be a valuable asset
 
