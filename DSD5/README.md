@@ -1,4 +1,4 @@
-# Chapter 5 - Knime- Overview
+# Chapter 5 - KNIME- Overview
 
 **Teaching**: 90 min
 
@@ -13,14 +13,24 @@
 * Basic exercises with KNIME
 * End-to-end (from data acquisition to visualization) practice exercise 
 
+<br/><br/><br/>
+
+## Prerequisite: Installing KNIME Analytics Platform (Not the server part!)
+Download KNIME for (Window/Linux/Mac) from here: https://www.knime.com/downloads/download-knime
+
+Please make sure the intallation is valid and the application starts properly!
+
+If you need further help check the "KNIME Beginner's Luck" book uploaded on Moodle or ask help on Slack!
 
 
+<br/><br/>
 
+## Prerequisite: Read "KNIME Beginner's Luck" book uploaded on Moodle from 18 to 54. Do the exercices included. 
 
 
 <br/><br/><br/>
 
-## Introducing Knime
+## Introducing KNIME
 
 [Lecture](/DSD5/5.pptx)
 
@@ -31,6 +41,7 @@
 
 @TODO
 
+<br/><br/>
 
 ## End-to-end example
 
