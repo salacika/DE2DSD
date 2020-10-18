@@ -30,6 +30,7 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 ## Prerequisite: Self preparation at home
 * Read "KNIME Beginner's Luck" book uploaded on Moodle from 18 to 54. 
 * Do the exercises from these pages. 
+* Check the content of all 4 KNIME related books uploaded on Moodle
 
 
 <br/><br/><br/>
