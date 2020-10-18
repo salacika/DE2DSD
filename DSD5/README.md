@@ -24,20 +24,23 @@
 
 [Lecture](/DSD5/5.pptx)
 
-## Homework
 
-## Installing MySQL in AWS
+<br/><br/>
 
-Getting insights in AWS cloud, has to major goals:
-* A data system in cloud enables collaboration during the execution of your term project
-* Introducing cloud in practice, helps students to understand the next lecture
+## Basic exercices
+
+@TODO
 
 
-[Tutorial](/DSD1//AWS/)
+## End-to-end example
 
-## Homework
+[Source file 1](/DSD5/source_birdstrikes_small.csv)
+[Source file 2](/DSD5/source_us_state_bounding_boxes.csv)
+[Tutorial](/DSD5/seminar script.docx)
+[End result](/DSD5/ceu.knwf)
 
-Replicate the "classicmodels" schema into your cloud instance using MySQL Workbench's migration wizzard.
+
+
 
 
 
