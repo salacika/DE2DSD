@@ -25,7 +25,9 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 
 <br/><br/>
 
-## Prerequisite: Read "KNIME Beginner's Luck" book uploaded on Moodle from 18 to 54. Do the exercices included. 
+## Prerequisite: Self preparation at home
+* Read "KNIME Beginner's Luck" book uploaded on Moodle from 18 to 54. 
+* Do the exercices included. 
 
 
 <br/><br/><br/>
