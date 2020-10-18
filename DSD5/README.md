@@ -16,6 +16,9 @@
 <br/><br/><br/>
 
 ## Prerequisite: Installing KNIME Analytics Platform (Not the server part!)
+
+![Database diagram](/DSD5/pictures/Picture4.png)
+
 Download KNIME for (Window/Linux/Mac) from here: https://www.knime.com/downloads/download-knime
 
 Please make sure the intallation is valid and the application starts properly!
