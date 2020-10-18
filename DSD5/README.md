@@ -35,8 +35,11 @@
 ## End-to-end example
 
 [Source file 1](/DSD5/source_birdstrikes_small.csv)
+
 [Source file 2](/DSD5/source_us_state_bounding_boxes.csv)
+
 [Tutorial](/DSD5/seminar script.docx)
+
 [End result](/DSD5/ceu.knwf)
 
 
