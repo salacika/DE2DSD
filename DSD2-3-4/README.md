@@ -1,4 +1,4 @@
-# Chapter 2/3/4 - Overview
+# Chapter 2/3/4 - NoSQL - Overview
 
 **Teaching**: 90 min
 
