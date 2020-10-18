@@ -37,10 +37,10 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 ## Introducing KNIME
 
 #### Why KNIME?
-![.](/DSD5/pictures/Picture1.jpg)
+(/DSD5/pictures/Picture1.jpg)
 
 #### KNIME Ecosystem?
-![.(/DSD5/pictures/Picture3.png)
+(/DSD5/pictures/Picture3.png)
 
 
 <br/><br/>
