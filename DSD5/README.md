@@ -44,12 +44,12 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 <br/>
 
 #### KNIME Ecosystem
-[a](/DSD5/pictures/Picture3.png)
+[Picture](/DSD5/pictures/Picture3.png)
 
 <br/>
 
 #### KNIME Nodes Classification 
-[b](/DSD5/pictures/Picture2.png)
+[Picture](/DSD5/pictures/Picture2.png)
 
 <br/><br/>
 
