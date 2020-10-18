@@ -39,12 +39,14 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 
 #### Why KNIME?
 ![](/DSD5/pictures/Picture1.jpg)
+#### Data Science and ML Platforms (Gartner 2019) 
+
 <br/>
 #### KNIME Ecosystem
-![](/DSD5/pictures/Picture3.png)
+[a](/DSD5/pictures/Picture3.png)
 <br/>
 #### KNIME Nodes Classification 
-![](/DSD5/pictures/Picture2.png)
+[b](/DSD5/pictures/Picture2.png)
 
 <br/><br/>
 
