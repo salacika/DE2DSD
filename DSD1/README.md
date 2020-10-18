@@ -1,4 +1,4 @@
-# Chapter 1 - Overview
+# Chapter 1 - Data Architectural Tradeoffs - Overview
 
 **Teaching**: 90 min
 
