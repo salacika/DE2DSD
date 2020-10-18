@@ -5,7 +5,7 @@
 **Problem statement**
 1. As analyst, you might want to use an end-to-end data analytics tool, capable to integrate multiple data sources and to create various data analytics outputs 
 
-2. As analyst, rapid prototyping of your data analytics workflow, oposed to using a programing language (R,Python etc), might be a valuable asset
+2. As analyst, rapid prototyping of your data analytics workflow, opposed to using a programing language (R,Python etc), might be a valuable asset
 
 
 **Objectives**
@@ -27,7 +27,7 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 
 ## Prerequisite: Self preparation at home
 * Read "KNIME Beginner's Luck" book uploaded on Moodle from 18 to 54. 
-* Do the exercices included. 
+* Do the exercises from these pages. 
 
 
 <br/><br/><br/>
@@ -39,7 +39,7 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 
 <br/><br/>
 
-## Basic exercices
+## Practice exercises
 
 @TODO
 
