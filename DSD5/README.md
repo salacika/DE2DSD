@@ -38,7 +38,7 @@
 
 [Source file 2](/DSD5/source_us_state_bounding_boxes.csv)
 
-[Tutorial](/DSD5/seminar script.docx)
+[Tutorial](/DSD5/seminar_script.docx)
 
 [End result](/DSD5/ceu.knwf)
 
