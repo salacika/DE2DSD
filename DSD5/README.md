@@ -17,7 +17,6 @@
 
 ## Prerequisite: Installing KNIME Analytics Platform (Not the server part!)
 
-![Database diagram](/DSD5/pictures/Picture4.png)
 
 Download KNIME for (Window/Linux/Mac) from here: https://www.knime.com/downloads/download-knime
 
@@ -37,7 +36,11 @@ If you need further help check the "KNIME Beginner's Luck" book uploaded on Mood
 
 ## Introducing KNIME
 
-[Lecture](/DSD5/5.pptx)
+#### Why KNIME?
+![.](/DSD5/pictures/Picture1.jpg)
+
+#### KNIME Ecosystem?
+![.(/DSD5/pictures/Picture3.png)
 
 
 <br/><br/>
