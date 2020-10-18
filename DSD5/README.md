@@ -20,9 +20,9 @@
 
 <br/><br/><br/>
 
-## Data architectural tradeoffs from engineering perspective
+## Introducing Knime
 
-[Lecture](https://github.com/salacika/DE2DSD/blob/main/DSD1/1.pptx)
+[Lecture](/DSD1/dsd_5.pptx)
 
 ## Homework
 
