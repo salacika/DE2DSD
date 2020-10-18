@@ -22,7 +22,7 @@
 
 ## Introducing Knime
 
-[Lecture](/DSD1/dsd_5.pptx)
+[Lecture](/DSD1/5.pptx)
 
 ## Homework
 
