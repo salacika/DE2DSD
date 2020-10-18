@@ -1,4 +1,4 @@
-# Chapter 1 - Knime- Overview
+# Chapter 5 - Knime- Overview
 
 **Teaching**: 90 min
 
