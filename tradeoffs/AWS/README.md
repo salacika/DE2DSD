@@ -21,7 +21,7 @@ Notes:
 
 ![alt text](2.png?raw=true)
 
-## 6. When it is ready, you need to give access trough the firewall. In technical terms you need to opne port 3306, which is the default port for MySQL. First you should open the settings of the newly created DB by clicking the DB name and then click on the VPC Security group:
+## 6. When it is ready, you need to give access trough the firewall. In technical terms you need to open port 3306, which is the default port for MySQL. First you should open the settings of the newly created DB by clicking the DB name and then click on the VPC Security group:
 
 ![alt text](3.png?raw=true)
 
